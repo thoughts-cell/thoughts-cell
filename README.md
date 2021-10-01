@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+##  WELCOME TO MY PROFILE . I am current looking to find an internship
 <!--
 **thoughts-cell/thoughts-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
