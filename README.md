@@ -1,5 +1,6 @@
 ### Hi there 👋
-##  WELCOME TO MY PROFILE . I am currently looking to find an internship
+##  WELCOME TO MY PROFILE .
+- 🌱 I’m currently learning Golang and Data Structure
 <!--
 **thoughts-cell/thoughts-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
