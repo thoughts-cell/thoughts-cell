@@ -1,6 +1,7 @@
 ### Hi there 👋
 ##  WELCOME TO MY PROFILE .
-- 🌱 I’m currently learning Golang 
+- I’m currently learning Golang
+- I’m looking forward to contributing in open source.
 <!--
 **thoughts-cell/thoughts-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
